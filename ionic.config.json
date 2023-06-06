@@ -1,0 +1,7 @@
+{
+  "name": "speed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
